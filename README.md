@@ -1,5 +1,7 @@
 # JavaSE-19.Encapsulation
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 It refers to the bundling of data (attributes) and methods (functions) that operate on the data into a single unit, often called a class.
 
 The idea is to hide the internal implementation details of an object and only expose what is necessary.
